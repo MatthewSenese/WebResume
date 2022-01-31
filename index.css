@@ -1,7 +1,10 @@
-<<<<<<< HEAD
 h1 {text-align: center;}
 h4 {text-align: center;}
-=======
-h1 {text-align: center;}
-h4 {text-align: center;}
->>>>>>> 8f8631d86e116a425fec27d522657604c32b3c3f
+h5 {font-style: italic;}
+p {
+    padding-bottom: 10px;
+}
+ul {
+    padding-bottom: 20px;
+}
+
